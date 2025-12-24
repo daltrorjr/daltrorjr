@@ -25,7 +25,9 @@ Conseguir uma oportunidade como **Estagiário ou Profissional Júnior**, onde eu
 
 ## 📚 Cursos e Certificações
 
-- ☁️ **OCI**
+- ### ☁️ Cloud
+![OCI](https://img.shields.io/badge/Oracle%20Cloud-OCI-red?logo=oracle&logoColor=white)
+
 - 🔐 **CYBEROPS Associate – Cisco**
 - 🌐 **CCNA I – Operação e Gerenciamento de Redes**
 - 💻 **Programador Web**
@@ -44,17 +46,6 @@ Conseguir uma oportunidade como **Estagiário ou Profissional Júnior**, onde eu
 - Modelagem de dados
 - Conceitos de DBA
 - Backup, usuários e permissões
-
----
-
-### 💻 Desenvolvimento & Versionamento
-![Git](https://img.shields.io/badge/Git-Version%20Control-orange?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-Repositories-black?logo=github)
-
-- Git e GitHub
-- Lógica de programação
-- Integração aplicação + banco de dados
-- Programação Web
 
 ---
 
@@ -79,7 +70,7 @@ Conseguir uma oportunidade como **Estagiário ou Profissional Júnior**, onde eu
 ---
 
 ## 📫 Contato
-- 💼 **LinkedIn:** *(adicione aqui)*
-- 📧 **E-mail:** *(adicione aqui)*
+- 💼 **LinkedIn:** *linkedin.com/in/daltro-vieira-rodrigues-jr-42993a8*
+- 📧 **E-mail:** *daltrorjr@gmail.com*
 
 ⭐ *Estou aberto a feedbacks, colaborações e oportunidades de aprendizado!*
