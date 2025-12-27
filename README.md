@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Daltro Rodrigues
 
-🎓 **Profissional em formação na área de Banco de Dados e Desenvolvimento**  
-🚀 Buscando oportunidades como **Estagiário ou Júnior (DBA / Desenvolvedor)**
+🎓 **Profissional em formação na área de Banco de Dados**  
+🚀 Buscando oportunidades como **DBA Júnior**
 
 Sou apaixonado por tecnologia, dados e sistemas. Tenho formação sólida em **Banco de Dados**, com foco em **Oracle**, além de conhecimentos em **SQL, Linux, redes e desenvolvimento web**. Busco aprender continuamente e aplicar boas práticas em projetos reais.
 
@@ -42,26 +42,16 @@ Conseguir uma oportunidade como **Estagiário ou Profissional Júnior**, onde eu
 ![SQL](https://img.shields.io/badge/SQL-Structured%20Query%20Language-blue)
 ![PLSQL](https://img.shields.io/badge/PL%2FSQL-Oracle-orange)
 
-- SQL (consultas, joins, subqueries)
-- Modelagem de dados
-- Conceitos de DBA
-- Backup, usuários e permissões
-
 ---
 
 ### 🐧 Sistemas e Redes
 ![Linux](https://img.shields.io/badge/Linux-Admin-yellow?logo=linux)
 ![Networking](https://img.shields.io/badge/Networking-CCNA-blue?logo=cisco)
 
-- Administração Linux
-- Comandos e scripts básicos
-- Redes de computadores
-- Noções de segurança da informação
-
 ---
 
 ## 📈 O que você vai encontrar neste GitHub
-✔️ Projetos acadêmicos  
+✔️ Projetos  
 ✔️ Exercícios práticos de SQL  
 ✔️ Scripts Linux  
 ✔️ Estudos de banco de dados e modelagem  
