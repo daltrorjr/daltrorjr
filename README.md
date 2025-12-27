@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Daltro Rodrigues
 
-🎓 **Profissional em formação na área de Banco de Dados**  
+🎓 **Profissional na área de Banco de Dados**  
 🚀 Buscando oportunidades como **DBA Júnior**
 
 Sou apaixonado por tecnologia, dados e sistemas. Tenho formação sólida em **Banco de Dados**, com foco em **Oracle**, além de conhecimentos em **SQL, Linux, redes e desenvolvimento web**. Busco aprender continuamente e aplicar boas práticas em projetos reais.
