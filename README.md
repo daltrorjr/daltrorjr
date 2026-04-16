@@ -8,7 +8,7 @@ Sou apaixonado por tecnologia, dados e sistemas. Tenho formação sólida em **B
 ---
 
 ## 🎯 Objetivo
-Conseguir uma oportunidade como **Estagiário ou Profissional Júnior**, onde eu possa:
+Conseguir uma oportunidade como **Profissional Júnior**, onde eu possa:
 - Aprender com profissionais experientes  
 - Aplicar meus conhecimentos em banco de dados e desenvolvimento  
 - Evoluir tecnicamente em ambientes corporativos  
