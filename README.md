@@ -1,14 +1,21 @@
 # 👋 Olá! Eu sou o Daltro Rodrigues
 
-🎓 **Profissional na área de Banco de Dados**  
-🚀 Buscando oportunidades como **DBA Júnior**
+🎓 **Profissional na Graduado na área de Banco de Dados**  
 
-Sou apaixonado por tecnologia, dados e sistemas. Tenho formação sólida em **Banco de Dados**, com foco em **Oracle**, além de conhecimentos em **SQL, Linux, redes e desenvolvimento web**. Busco aprender continuamente e aplicar boas práticas em projetos reais.
+
+Analista de dados com formação em Banco de Dados (Tecnólogo e Pós-graduação em Oracle) e certificação Oracle Cloud
+Infrastructure Foundations Associate. Experiência prática em instalação, configuração e administração de Oracle
+Database em ambiente cloud (OCI) e Linux, modelagem de dados, SQL e PL/SQL, processos de extração, transformação e
+carga de dados (ETL) com Pentaho PDI e geração de relatórios. Traz mais de 18 anos de atuação em projetos de
+engenharia de telecomunicações, com perfil analítico, organização, proatividade, capacidade de resolução de problemas
+e rigor na documentação e validação técnica
 
 ---
 
 ## 🎯 Objetivo
-Conseguir uma oportunidade como **Profissional Júnior**, onde eu possa:
+
+- Dba
+- Analista de dados
 - Aprender com profissionais experientes  
 - Aplicar meus conhecimentos em banco de dados e desenvolvimento  
 - Evoluir tecnicamente em ambientes corporativos  
